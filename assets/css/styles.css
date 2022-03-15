@@ -32,6 +32,7 @@ body{
     padding: 0;
     font-family: var(--body-font);
     color: var(--first-color);
+     background-color: #fff;
 }
 h1{
     margin: 0;
